@@ -60,13 +60,13 @@ const UserLogin = () => {
               <EuiFlexItem>
                 <EuiImage
                   src={animation}
-                  alt="DevMeet"
+                  alt="DevTalks"
                   size="550px"
                   style={{ borderRadius: "20px 140px" }}
                 />
               </EuiFlexItem>
               <EuiFlexItem style={{ borderRadius: "30px" }}>
-                <EuiImage src={logo} alt="DevMeet" size="230px" />
+                <EuiImage src={logo} alt="DevTalks" size="230px" />
                 <EuiSpacer size="xs" />
                 <EuiText textAlign="center" grow={false}>
                   <h3>Lets make your day more productive.</h3>

@@ -1,4 +1,4 @@
-![App Screenshot](src/assets/Devwindow.png)
+<!-- ![App Screenshot](src/assets/Devwindow.png) -->
 
 DevTalks is a full-stack TypeScript/React video-meetings platform built for developers. It enables users to create, join, and manage meetings — and during free time users can browse documentation or take quizzes to sharpen their skills.
 
