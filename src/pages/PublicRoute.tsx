@@ -19,7 +19,7 @@ const PublicRoute = () => {
                     <EuiFlexGroup justifyContent='center' direction='column' alignItems='center'>
                         <EuiFlexItem grow={false}>
                             <EuiText style={{ fontSize: '80px', marginBottom: "30px", fontWeight: "700" }}>
-                                Dev<span style={{ color: "blue" }}>Meets</span>
+                                Dev<span style={{ color: "blue" }}>Talks</span>
                             </EuiText>
                         </EuiFlexItem>
 
